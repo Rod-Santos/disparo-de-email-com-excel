@@ -1,6 +1,10 @@
 # Ignorar arquivo .env
 .env
 
+# Ignorar arquivos
+dispara-email.py
+
+
 # Ignorar arquivos temporários do Windows
 Thumbs.db
 desktop.ini
