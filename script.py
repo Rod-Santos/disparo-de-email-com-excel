@@ -11,7 +11,7 @@ from datetime import datetime
 Altere aqui as suas credenciais e nome
 '''
 seu_nome = "Teste!"
-seu_email = "codex@codex.com.br"
+seu_email = "*"
 sua_senha = "*"
 
 # Se estiver usando algo diferente do gmail
